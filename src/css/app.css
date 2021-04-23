@@ -1,1 +1,16 @@
 /* app global css */
+/* .body--light {
+  background: #727272
+} */
+
+/* .body--dark {
+  background: #000
+} */
+
+/* body.body--dark {
+  background: #722
+} */
+
+.loginform{
+  min-width: 30rem;
+}
